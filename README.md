@@ -52,7 +52,7 @@ To run the application locally, follow these steps:
 
 
 ## Demo
-**Link -**  https://3d-galaxy.netlify.app
+**Link -**  https://3d-galaxy-uni.netlify.app
 
 
 ## Technologies Used
